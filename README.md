@@ -1,2 +1,2 @@
-# erros
+# Errors
 
